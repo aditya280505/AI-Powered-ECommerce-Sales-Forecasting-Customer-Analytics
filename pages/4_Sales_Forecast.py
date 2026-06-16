@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 from pathlib import Path
 
-BASE_DIR = Path(__file__).resolve().parents[1]
+BASE_DIR = Path(__file__).resolve().parents[2]
 
 forecast = pd.read_csv(
     BASE_DIR / "exports" / "monthly_forecast.csv"
