@@ -1,0 +1,9 @@
+
+SQL ANALYSIS INSIGHTS:
+
+1. Technology generates highest revenue
+2. West region dominates sales
+3. Some products are loss-making
+4. Shipping delays vary by ship mode
+5. Discounts reduce profit in many cases
+6. Customer concentration is high (few customers generate most sales)

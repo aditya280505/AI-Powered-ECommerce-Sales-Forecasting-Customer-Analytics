@@ -1,0 +1,11 @@
+
+1. Highest Revenue Category:
+2. Highest Profit Category:
+3. Best Performing Region:
+4. Best Customer Segment:
+5. Peak Sales Month:
+6. Top Customer:
+7. Top Product:
+8. Discount Impact on Profit:
+9. Average Shipping Performance:
+10. Sales and Profit show positive correlation.
