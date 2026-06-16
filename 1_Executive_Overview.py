@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 from pathlib import Path
 
-BASE_DIR = Path(__file__).resolve().parents[2]
+BASE_DIR = Path(__file__).resolve().parents[1]
 
 df = pd.read_csv(
     BASE_DIR / "data" / "cleaned" / "superstore_final.csv"
