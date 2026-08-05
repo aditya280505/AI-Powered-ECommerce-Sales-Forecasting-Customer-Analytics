@@ -7,7 +7,6 @@
 ![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
 
 [![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-success?style=for-the-badge)](https://j3xo9py3winpuap9idspbd.streamlit.app/)
-
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/aditya280505/AI-Powered-ECommerce-Sales-Forecasting-Customer-Analytics)
 
 ---
