@@ -115,15 +115,41 @@ AI-Powered-ECommerce-Sales-Forecasting-Customer-Analytics
 │       ├── 3_Customer_Segmentation.py
 │       └── 4_Sales_Forecast.py
 │
+├── assets
+│   └── screenshots
+│       ├── executive_dashboard.png
+│       ├── sales_dashboard.png
+│       ├── customer_dashboard.png
+│       └── forecast_dashboard.png
+│
 ├── data
+│   └── cleaned
+│       └── superstore_final.csv
 │
 ├── notebooks
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_eda.ipynb
+│   ├── 03_sql_analysis.ipynb
+│   ├── 04_rfm_segmentation.ipynb
+│   └── 05_sales_forecasting.ipynb
 │
 ├── models
+│   ├── rfm_kmeans.pkl
+│   ├── rfm_scaler.pkl
+│   └── sales_forecast_rf.pkl
 │
 ├── reports
+│   ├── EDA_insights.txt
+│   ├── SQL_insights.txt
+│   ├── monthly_forecast.csv
+│   ├── PowerBI_Dashboard.pbix
+│   └── PowerBI_Report.pdf
 │
 ├── requirements.txt
+├── load_data.py
+├── superstore_clean.csv
+├── superstore_final.csv
+├── rfm_segments.csv
 ├── README.md
 └── .gitignore
 ```
