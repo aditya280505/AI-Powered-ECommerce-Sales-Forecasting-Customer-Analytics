@@ -134,25 +134,19 @@ AI-Powered-ECommerce-Sales-Forecasting-Customer-Analytics
 
 ## Executive Dashboard
 
-<img width="1282" height="720" alt="executive_dashboard" src="https://github.com/user-attachments/assets/67901ff8-005a-47ac-a107-d3672d3acf3c" />
-
----
+![Executive Dashboard](assets/screenshots/executive_dashboard.png)
 
 ## Sales Analytics Dashboard
 
-<img width="1282" height="722" alt="sales_dashboard" src="https://github.com/user-attachments/assets/54b4dd0a-164a-4361-bfc1-fe59873f567f" />
-
----
+![Sales Analytics Dashboard](assets/screenshots/sales_dashboard.png)
 
 ## Customer Segmentation Dashboard
 
-<img width="1280" height="720" alt="customer_dashboard" src="https://github.com/user-attachments/assets/c94269ab-a76b-4de2-9231-da14fc52ed6f" />
-
----
+![Customer Segmentation Dashboard](assets/screenshots/customer_dashboard.png)
 
 ## Sales Forecast Dashboard
 
-<img width="1278" height="718" alt="forecast_dashboard" src="https://github.com/user-attachments/assets/e7fd767a-79e1-49b8-aa93-872b086a7dfe" />
+![Sales Forecast Dashboard](assets/screenshots/forecast_dashboard.png)
 
 ---
 
