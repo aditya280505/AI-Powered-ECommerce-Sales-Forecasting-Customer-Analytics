@@ -1,4 +1,4 @@
-# 📊 AI-Powered E-Commerce Sales Forecasting & Customer Analytics Platform
+# 📊 AI-Powered E-Commerce Analytics & Sales Forecasting Platform
 
 🐍 Python &nbsp; ◈ &nbsp; 🚀 Streamlit &nbsp; ◈ &nbsp; 📊 Power BI &nbsp; ◈ &nbsp; 🤖 Machine Learning &nbsp; ◈ &nbsp; 🗄️ SQL
 
@@ -219,13 +219,14 @@ Interactive Streamlit Dashboard
 
 **Aditya Pravin Borgaonkar**
 
-B.Tech Computer Science Engineering (Artificial Intelligence & Analytics)
+B.Tech Computer Science Engineering (Artificial Intelligence & Analytics)  
+MIT Art, Design & Technology University  
 
-MIT Art, Design & Technology University
+📧 Email: borgaonkaraditya1@gmail.com  
 
-📧 Email: borgaonkaraditya1@gmail.com
+🔗 GitHub: https://github.com/aditya280505  
 
-🔗 GitHub: https://github.com/aditya280505
+🔗 LinkedIn: https://linkedin.com/in/adityaborgaonkar280505/
 
 ---
 
