@@ -1,12 +1,8 @@
 # 📊 AI-Powered E-Commerce Sales Forecasting & Customer Analytics Platform
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red?logo=streamlit)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
-![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
+🐍 Python   |   🚀 Streamlit   |   📊 Power BI   |   🤖 Machine Learning   |   🗄️ SQL
 
-[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-success?style=for-the-badge)](https://j3xo9py3winpuap9idspbd.streamlit.app/)   
+[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-success?style=for-the-badge)](https://j3xo9py3winpuap9idspbd.streamlit.app/)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/aditya280505/AI-Powered-ECommerce-Sales-Forecasting-Customer-Analytics)
 
 ---
