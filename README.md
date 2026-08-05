@@ -107,6 +107,8 @@ into one complete analytics solution.
 ```text
 AI-Powered-ECommerce-Sales-Forecasting-Customer-Analytics
 │
+├── .devcontainer
+│
 ├── app
 │   ├── streamlit_app.py
 │   └── pages
@@ -126,30 +128,33 @@ AI-Powered-ECommerce-Sales-Forecasting-Customer-Analytics
 │   └── cleaned
 │       └── superstore_final.csv
 │
-├── notebooks
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_eda.ipynb
-│   ├── 03_sql_analysis.ipynb
-│   ├── 04_rfm_segmentation.ipynb
-│   └── 05_sales_forecasting.ipynb
+├── 01_data_cleaning.ipynb
+├── 02_eda.ipynb
+├── 03_sql_analysis.ipynb
+├── 04_rfm_segmentation.ipynb
+├── 05_sales_forecasting.ipynb
 │
-├── models
-│   ├── rfm_kmeans.pkl
-│   ├── rfm_scaler.pkl
-│   └── sales_forecast_rf.pkl
-│
-├── reports
-│   ├── EDA_insights.txt
-│   ├── SQL_insights.txt
-│   ├── monthly_forecast.csv
-│   ├── PowerBI_Dashboard.pbix
-│   └── PowerBI_Report.pdf
-│
-├── requirements.txt
 ├── load_data.py
-├── superstore_clean.csv
-├── superstore_final.csv
+├── requirements.txt
+├── streamlit_app.py
+│
+├── eda_insights.txt
+├── sql_insights.txt
+├── monthly_forecast.csv
 ├── rfm_segments.csv
+│
+├── rfm_kmeans.pkl
+├── rfm_scaler.pkl
+├── sales_forecast_rf.pkl
+│
+├── superstore_clean.csv
+├── superstore_clean.xls
+├── superstore_final.csv
+│
+├── p1(E-Commerce Sales Forecasting & Customer Analytics Platform).pbix
+├── p1(E-Commerce Sales Forecasting & Customer Analytics Platform).pdf
+│
+├── settings.json
 ├── README.md
 └── .gitignore
 ```
