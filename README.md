@@ -134,17 +134,21 @@ AI-Powered-ECommerce-Sales-Forecasting-Customer-Analytics
 
 ## Executive Dashboard
 
+## Dashboard Screenshots
+
+### Executive Dashboard
+
 ![Executive Dashboard](assets/screenshots/executive_dashboard.png)
 
-## Sales Analytics Dashboard
+### Sales Analytics Dashboard
 
 ![Sales Analytics Dashboard](assets/screenshots/sales_dashboard.png)
 
-## Customer Segmentation Dashboard
+### Customer Segmentation Dashboard
 
 ![Customer Segmentation Dashboard](assets/screenshots/customer_dashboard.png)
 
-## Sales Forecast Dashboard
+### Sales Forecast Dashboard
 
 ![Sales Forecast Dashboard](assets/screenshots/forecast_dashboard.png)
 
